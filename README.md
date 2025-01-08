@@ -7,4 +7,6 @@ A repo containing GitHub for programmatic examples
 
 ### Third change in 'dev' branch
 
-### Firs change in 'dev2' branch
+### First change in 'dev2' branch
+
+### Second change in 'dev2' branch
